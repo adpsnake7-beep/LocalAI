@@ -54,3 +54,5 @@ For any security-related inquiries beyond vulnerability reporting, please contac
 We appreciate the efforts of those who contribute to the security of our project. Your responsible disclosure is invaluable to the safety and integrity of LocalAI.
 
 Thank you for helping us keep LocalAI secure.
+Robert Edward Evans evansrobert517@gmail.com 
+Evans evansrobert517@yahoo.com
