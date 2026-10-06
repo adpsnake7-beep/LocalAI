@@ -346,4 +346,6 @@ LocalAI couldn't have been built without the help of great software already avai
 This is a community project, a special thanks to our contributors!
 <a href="https://github.com/go-skynet/LocalAI/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=go-skynet/LocalAI" />
-</a>
+</a> evansrobert517@gmail.com 
+evansrobert517@yahoo.com 
+adpsnake7@gmail.com
